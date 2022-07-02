@@ -58,7 +58,7 @@ def scrape():
 # Chamando o método    
 scrape()
 
-# Chamando o método    
+# Defina o cabeçalho    
 headers = ["name", "light_years_from_earth", "planet_mass", "stellar_magnitude", "discovery_date", "hyperlink"]
 
 # Defina o dataframe do pandas
