@@ -42,7 +42,7 @@ def scrape():
                     except:
                         temp_list.append("")
 
-            # Obtenha a Tag do Hyperlink
+            # Obtenha a Tag do Hiperlink
             
             ## ADICIONE O CÓDIGO AQUI ##
 
